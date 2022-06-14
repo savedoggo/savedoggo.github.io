@@ -11,7 +11,7 @@
     width:62px;
     position:absolute;
     bottom:120px;
-    background:url("images/car2.png");
+    background:url("../images/car2.png");
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(-2px -2px rgb(62, 73, 44, 0.5));
     background-repeat: no-repeat;
@@ -49,7 +49,7 @@
     width:57px;
     position:absolute;
     bottom:120px;
-    background:url("images/car.png");
+    background:url("../images/car.png");
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(-3px -3px rgba(21, 26, 15, 0.5));
     background-repeat: no-repeat;
@@ -96,7 +96,7 @@
 }
 
 .pawCursor {
-  cursor: url("images/cursor.png"), auto;	
+  cursor: url("../images/cursor.png"), auto;	
 }
 
 @keyframes flicker {
