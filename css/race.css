@@ -99,6 +99,7 @@
   cursor: url("../images/cursor.png"), auto;	
 }
 
+
 @keyframes flicker {
     0% {
       opacity: 0.27861;
